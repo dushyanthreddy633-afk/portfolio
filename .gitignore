@@ -1,0 +1,4 @@
+__pycache__/
+.vercel/
+visitor_count.sqlite3*
+.vercel
